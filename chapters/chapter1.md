@@ -1,5 +1,5 @@
 ---
-dark: true;
+dark: true
 ---
 
 {% include figure.html image="/assets/headers/alleyway.jpeg" alt="Image with just alt text" %}
