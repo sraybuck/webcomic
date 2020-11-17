@@ -27,11 +27,11 @@
     {% if site.css_inline == true %}
       {% include site-styles.html %}
     {% else %}
-      <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+      <link rel="stylesheet" href="{{ "/assets/styles.css" | absolute_url }}">
     {% endif %}
 
     {% if page.dark == true%}
-    <link rel="stylesheet" href="{{ "/assets/dark.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/dark.css" | absolute_url }}">
     {%endif%}
 
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}

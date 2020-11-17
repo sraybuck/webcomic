@@ -1,7 +1,7 @@
 ---
 title: Chapters
 ---
-- [Prologue]({{ "/chapters prologue" | relative_url }} "prologue link")
+- [Prologue]({{ "/chapters/prologue" | absolute }} "prologue link")
 
 - [Chapter 1]({{url}}/chapters/chapter1)
 - [Flashback 1]({{baseurl}}/chapters/flashback1)
