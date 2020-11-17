@@ -1,7 +1,7 @@
 ---
-title: Chapters
+
 ---
-- [Prologue]({{baseurl}}/chapters/prologue)
+- [Prologue]({{ baseurl }}/chapters/prologue)
 - [Chapter 1]({{baseurl}}/chapters/chapter1)
 - [Flashback 1]({{baseurl}}/chapters/flashback1)
 - [Chapter 2]({{baseurl}}/chapters/chapter2)
