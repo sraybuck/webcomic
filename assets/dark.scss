@@ -2,16 +2,15 @@
 title: false
 styles: true
 ---
-
 // Background colours
-$backgroundColour: #2A2B38;
-$codeBackgroundColour: #242e2b;
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
 $featureBackgroundColour: #f9fafa;
 $accentColour: #f5a32d;
 
 // Text colours
-$headingColour:  #fafafa; 
-$bodyColour:#ffffff; 
+$headingColour: #242e2b !default;
+$bodyColour: #384743 !default;
 $linkColour: #f5a32d !default;
 $hoverColour: #D99748 !default;
 $focusColour: #fa407a !default;

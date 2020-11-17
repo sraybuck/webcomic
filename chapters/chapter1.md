@@ -1,8 +1,8 @@
 ---
-dark: true
+title: "Chapter 1: The Job"
 ---
 
-{% include figure.html image="/assets/headers/alleyway.jpeg" alt="Image with just alt text" %}
+{% include figure.html image="/assets/headers/alleyway.png" alt="A dark, european alleyway" %}
 
 # Chapter 1: The Job
 

@@ -1,1 +1,4 @@
-{% include figure.html image="/assets/headers/alleyway.jpeg" alt="Image with just alt text" %}
+---
+dark: true
+---
+{% include figure.html image="/assets/headers/grass1.png" alt="A close-up of a wheat field." %}
