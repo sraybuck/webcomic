@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: The Cathedral"
 ---
-<!--{% include figure.html image="{{site.baseurl}}/assets/headers/cathedral.png" alt="A huge, gothic cathedral in a slate gray sky" %}-->
 
 "I cannot *believe* you threw up on her shoes and then ran away." said Renard as they picked their way through the underground tunnel. He was leading the way with a torch though the narrow passageway which was dotted with ruined barrels, storage crates and other detritus from the smugglers who had used it before.
 

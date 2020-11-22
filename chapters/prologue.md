@@ -2,7 +2,7 @@
 title: "Prologue: The Cult"
 dark: true
 ---
-<!-- {% include figure.html image="{{site.baseurl}}/assets/headers/wastes.png" alt="a red, sprawling desert wasteland" %} -->
+
 
 It had been about twenty minutes after Sarin decided cult life wasn't for him when a ball of holy fire exploded right over his head. 
 

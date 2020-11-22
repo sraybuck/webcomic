@@ -2,8 +2,6 @@
 title: "Chapter 1: The Job"
 ---
 
-<!--{% include figure.html image="{{site.baseurl}}/assets/headers/alleyway.png" alt="A dark, european alleyway" %} -->
-
 # Chapter 1: The Job
 
 The famous dancing lights of Chantelle hung low over the gothic cityscape, illuminating the slick cobblestones and sending long, stretched shadows tumbling down narrow alleyways. The soft, glowing globules of lights that floated and twinkled their way down paved thoroughfares and up shooting towers were synonymous with Chantelle itself, the lights had been there for as long as anyone remembered in the city, and they were always welcome to illuminate the cold, damp nights. Always welcome, except by Audrey Ward. 
