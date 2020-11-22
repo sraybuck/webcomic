@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: The Bar"
 ---
+<img class="image" src="{{site.baseurl}}/assets/headers/bar.png" alt="interior of a rustic bar">
 
 Renard had led them back to the Wandering Wyvern pub that Audrey had passed on her way to the warehouse. The inside was shrouded in cream walls with golden accents and archways, far fancier than any other building she had passed in the mostly working-class textile district. The pub was just on the edge of the city center, as the downtown area met with the industrial periphery of Chantelle. It had an odd mix of polished, upper class snobbery contrasted with a rough furniture and worn upholstery. It felt like a place that was trying too hard to appear fancy, without the funds to back it up. They had picked a booth in the way back of the narrow pub, and Audrey put her back to the far wall so she could view the whole inside. A nervous habit she picked up from too many ambushes early in her career. As she settled into the booth, still holding the enormous cylinder, she glanced up at her new companion.
  

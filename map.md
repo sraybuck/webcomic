@@ -1,4 +1,4 @@
 ---
 title: Map
 ---
-{% include figure.html image="{{site.baseurl}}/assets/map.jpg" alt="Map of Northern Onterat" %}
+<img class="image" src="{{site.baseurl}}/assets/map.jpg" alt="Map of Northern Onterat">

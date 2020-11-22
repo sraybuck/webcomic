@@ -3,6 +3,7 @@ title: "Flashback 1: The Adoption"
 dark: true
 
 ---
+<img class="image" src="{{site.baseurl}}/assets/headers/rusken_return.png" alt="Rolling hills and farmland dotted with small houses">
 
 "Done!" Lyra shouted from the other end of the yard. Audrey jumped down from her perch atop one of the fence posts and dashed over to Lyra's improvised weapons forge. Spread out in front of the smaller girl was a vast array of sticks, ropes, rocks, and nails. Lyra had even scrounged up a discarded hammer to whack her creations into existence. Currently, she was crouched on the ground, adjusting a long piece of grass that wrapped around the hilt of a small, wooden sword. 
 

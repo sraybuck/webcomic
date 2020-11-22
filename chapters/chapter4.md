@@ -1,6 +1,7 @@
 ---
 title: "Chapter 4: The Charm"
 ---
+<img class="image" src="{{site.baseurl}}/assets/headers/flashes.gif" alt="flashes of previous headers">
 
 Things Audrey needs to remember: 
 - lyra and hawthorne
