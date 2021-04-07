@@ -3,8 +3,6 @@ title: "Chapter 1: The Job"
 ---
 <img class="image" src="{{site.baseurl}}/assets/headers/alleyway.png" alt="A dark, european alleyway">
 
-# Chapter 1: The Job
-
 The famous dancing lights of Chantelle hung low over the gothic cityscape, illuminating the slick cobblestones and sending long, stretched shadows tumbling down narrow alleyways. The soft, glowing globules of lights that floated and twinkled their way down paved thoroughfares and up shooting towers were synonymous with Chantelle itself, the lights had been there for as long as anyone remembered in the city, and they were always welcome to illuminate the cold, damp nights. Always welcome, except by Audrey Ward. 
 
 Audrey's work was conducted deep in the shadows, the dark alleyways and the unseen hovels of the city. She picked her way through a narrow alleyway on the edge of the textile district, the smells of strong dyes and hard work reeking in the air around her. As she crept through the shadows, she took pains to avoid the inviting glow of the dancing lights. She strayed far from the light partially out of professional diligence but also personal preference. The motes of bright yellow light made her uncomfortable, like someone was watching her. 
@@ -13,7 +11,7 @@ As she reached the end of the alleyway, she poked her head out into the street. 
 
 "Duron! You can't catch the lights, c'mon you know that quit making a fool of yourself." Another man joined the drunk one, Duron apparently, outside the tavern. "Aw, c'mon babe I'm trying to catch one for you," Duron said, taking a little too long to turn away from the inviting glow of the lights.
 
-[SCENE WHERE AUDREY IS LONELYYYYYYYYYY]
+[sequence where audrey is lonely]
 
 As Audrey approached the low wall, she heard voices arguing.
 

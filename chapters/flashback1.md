@@ -45,7 +45,7 @@ A long, thick tree branch formed the staff of the weapon with a misshapen, point
 
 "Lyra, oh you sneaky jerk, give it here." Audrey said, making a mad grab for the makeshift halberd.
 
-[STRUGGLE STRUGGLE]
+[THEY STRUGGLE]
 
 "Hey! What are you two doing out here?" Audrey and Lyra froze mid-scuffle. It was Mistress Hawthrone. An older woman in a conservative, dark dress and a severe bun stepped out into the yard from the orphanage's side entrance. "I swear, every day with you two its something new - Wait. What is that terrifying contraption, Lyra?" Audrey turned her head and met Lyra's eyes with her own from her uncomfortable position stuck in Lyra's headlock. They both immediately let go and scrambled to their feet to face the Mistress. Lyra tucked the enormous halberd behind her. She was far from tall enough to hide the entire weapon but she made a remarkable effort, Audrey thought.
 
@@ -57,7 +57,7 @@ Reluctantly, Lyra placed the halberd into her outstretched palm. Hawthorne turne
 
 "Hm. While this undoubtedly an accident waiting to happen, it does have some very nice craftsmanship. How did you get the rope to secure this axe blade?"
 
-"Well," Lyra began hesitantly. "I triple braieded some twine we had laying around the sewing supplies and dulled the edges of the shard."
+"Well," Lyra began hesitantly. "I triple braided some twine we had laying around the sewing supplies and dulled the edges of the shard."
 
 "Hm. Smart." Hawthorn turned to Audrey. "Well, Ward? What were you planning to do with this?" she asked, eyeing the odd display of pots and bowls in the yard.
 
