@@ -1,5 +1,6 @@
 ---
 title: "Chapter 1: The Job"
+dark: true
 ---
 <img class="image" src="{{site.baseurl}}/assets/headers/alleyway.png" alt="A dark, european alleyway">
 

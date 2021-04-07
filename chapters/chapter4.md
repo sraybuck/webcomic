@@ -1,5 +1,6 @@
 ---
 title: "Chapter 4: The Charm"
+dark: true
 ---
 <img class="image" src="{{site.baseurl}}/assets/headers/flashes.gif" alt="flashes of previous headers">
 

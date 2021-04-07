@@ -1,5 +1,6 @@
 ---
 title: "Chapter 2: The Bar"
+dark: true
 ---
 <img class="image" src="{{site.baseurl}}/assets/headers/bar.png" alt="interior of a rustic bar">
 
